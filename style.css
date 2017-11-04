@@ -1,0 +1,120 @@
+/** Nice font 'Open-Sans' I got from Google. **/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
+
+/** Colors **/
+
+/*** GENERAL STYLE ***/
+
+
+div{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    
+}
+
+
+h1{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 45px;
+}
+
+      
+
+/***IDs***/
+
+
+#yum{
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 13px;
+}
+
+#kewl{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+#dgmama{
+    margin-top: 6px;
+}
+
+#aye{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#dgmama2{
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Poiret One', cursive;
+    
+}
+
+#kewl2{
+    color: black;
+    font-family: 'Poiret One', cursive;
+   font-weight: bold;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 9px;
+    margin-right: 9px;
+
+}
+
+#yum2{
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Poiret One', cursive;
+    margin-left: 8px;
+    margin-right: 8px;
+
+}
+
+
+    
+
+
+
+/**Class**/
+
+
+.music{
+    display: none;
+}
+
+
+.child{
+   
+    
+}
+
+
+.nav{
+    list-style: none;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    margin-bottom: 1px;
+    margin-top: 10px;
+}
+
+.nav li{
+    display: inline-block;
+    padding: 25px;
+    margin-top: 1px;   
+}
+
+.nav li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.nav li a:hover{
+    color: #FFA07A;
+}
